@@ -424,6 +424,8 @@
 ## 実際のレイアウト例などは以下のリンクに記載しております。
 https://docs.google.com/spreadsheets/d/1BrNdoH9mWbOpe_UjAyYySxzDBKEDxk2HboFfS8UfkHY/edit?gid=165285880#gid=165285880
 
+
+
 ## 🔄 今後の展望
 
 ### 開発ロードマップ
